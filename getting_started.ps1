@@ -1,0 +1,1 @@
+$ComputerName = Read-Host 'Computer Name'
